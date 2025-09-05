@@ -30,6 +30,12 @@ public class EnemyVisionFOV : MonoBehaviour
     [SerializeField] bool debugLogSeen = false;
     [SerializeField] Color seenTint = new Color(1f, 0.4f, 0.4f);
 
+    // >>> NOVO: toggles para ignorar o player (por inimigo ou global)
+    [Tooltip("Se marcado, ESTE inimigo nunca detecta o player.")]
+    [SerializeField] bool ignorePlayer = false;
+    [Tooltip("Se true, TODOS os inimigos ignoram o player (modo decoração).")]
+    public static bool GlobalIgnorePlayer = false;
+
     [Header("Render do Cone (FOV)")]
     [SerializeField] Color fovColor = new Color(1f, 1f, 0f, 0.2f);
     [SerializeField] Material fovMaterialOverride;
@@ -56,7 +62,6 @@ public class EnemyVisionFOV : MonoBehaviour
     public bool  IsSeeingPlayer => playerVisible;
     public float ViewRadius     { get => viewRadius; set => viewRadius = Mathf.Max(0.01f, value); }
     public float ViewAngle      { get => viewAngle;  set => viewAngle  = Mathf.Clamp(value, 1f, 359f); }
-
 
     Vector2? facingOverride = null;
     public void SetFacingOverride(Vector2? dir) { facingOverride = dir; }
@@ -112,9 +117,7 @@ public class EnemyVisionFOV : MonoBehaviour
 
     void Update()
     {
-
-
-         // Atualiza a "frente": override > velocidade
+        // Atualiza a "frente": override > velocidade
         if (facingOverride.HasValue) facing = facingOverride.Value.normalized;
         else
         {
@@ -157,6 +160,9 @@ public class EnemyVisionFOV : MonoBehaviour
 
     bool IsPlayerVisible()
     {
+        // >>> NOVO: quando ignorando player, nunca enxerga
+        if (ignorePlayer || GlobalIgnorePlayer) return false;
+
         if (!player) return false;
         if (playerHide != null && playerHide.IsHidden) return false;
 

@@ -46,6 +46,9 @@ TagManager:
   - name: Ground
     uniqueID: 1922007129
     locked: 0
+  - name: Coletavel
+    uniqueID: 2328632587
+    locked: 0
   - name: WallsMiddle
     uniqueID: 1863243963
     locked: 0

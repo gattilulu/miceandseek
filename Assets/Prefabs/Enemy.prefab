@@ -199,6 +199,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b5cc25a50b4b53c45ab5d728e0acaac3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  pathRoot: {fileID: 0}
   waypoints:
   - {fileID: 0}
   - {fileID: 0}
@@ -210,6 +211,11 @@ MonoBehaviour:
   speed: 3
   arriveThreshold: 0.05
   waitAtPoint: 0.2
+  pingPong: 0
+  rotateTransform: 1
+  lookFourOnPause: 1
+  lookStepDuration: 0.25
+  lookClockwise: 1
 --- !u!114 &5126235243649988467
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -252,7 +258,7 @@ MonoBehaviour:
   vision: {fileID: 5126235243649988467}
   player: {fileID: 0}
   playerHide: {fileID: 0}
-  alertMarker: {fileID: 0}
+  enemyAnim: {fileID: 0}
   patrolSpeed: 3
   chaseSpeed: 4
   fovExpandMultiplier: 1.6
