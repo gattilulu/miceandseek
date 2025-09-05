@@ -1,0 +1,705 @@
+fileFormatVersion: 2
+guid: 59305b980c5790e4cb7777bd0718aaa5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8566783185370229788
+    second: "VIT\xD3RIA E DERROTA-8_0"
+  - first:
+      213: -4747871613760272935
+    second: "VIT\xD3RIA E DERROTA-8_1"
+  - first:
+      213: 4758754502856051815
+    second: "VIT\xD3RIA E DERROTA-8_2"
+  - first:
+      213: -2461301069261177223
+    second: "VIT\xD3RIA E DERROTA-8_3"
+  - first:
+      213: -3356874256533972196
+    second: "VIT\xD3RIA E DERROTA-8_4"
+  - first:
+      213: 1449726708034238120
+    second: "VIT\xD3RIA E DERROTA-8_5"
+  - first:
+      213: -5807313638083689745
+    second: "VIT\xD3RIA E DERROTA-8_6"
+  - first:
+      213: 3912867203889053814
+    second: "VIT\xD3RIA E DERROTA-8_7"
+  - first:
+      213: 9150524676144028930
+    second: "VIT\xD3RIA E DERROTA-8_8"
+  - first:
+      213: -4380503474077641166
+    second: "VIT\xD3RIA E DERROTA-8_9"
+  - first:
+      213: -3909645350119996691
+    second: "VIT\xD3RIA E DERROTA-8_10"
+  - first:
+      213: -3002365027733726603
+    second: "VIT\xD3RIA E DERROTA-8_11"
+  - first:
+      213: -32597713904897158
+    second: "VIT\xD3RIA E DERROTA-8_12"
+  - first:
+      213: 3919337709333652977
+    second: "VIT\xD3RIA E DERROTA-8_13"
+  - first:
+      213: 3252223862122277766
+    second: "VIT\xD3RIA E DERROTA-8_14"
+  - first:
+      213: -4171102961213987389
+    second: "VIT\xD3RIA E DERROTA-8_15"
+  - first:
+      213: 1185701222287708558
+    second: "VIT\xD3RIA E DERROTA-8_16"
+  - first:
+      213: 1506411396183083791
+    second: "VIT\xD3RIA E DERROTA-8_17"
+  - first:
+      213: 1393009448824940781
+    second: "VIT\xD3RIA E DERROTA-8_18"
+  - first:
+      213: 4774550762606245100
+    second: "VIT\xD3RIA E DERROTA-8_19"
+  - first:
+      213: -826614980913433308
+    second: "VIT\xD3RIA E DERROTA-8_20"
+  - first:
+      213: 9116829364776860367
+    second: "VIT\xD3RIA E DERROTA-8_21"
+  - first:
+      213: 2151747114979228177
+    second: "VIT\xD3RIA E DERROTA-8_22"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "VIT\xD3RIA E DERROTA-8_0"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 213
+        width: 81
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3d738e41cac1980800000000000000
+      internalID: -8566783185370229788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA E DERROTA-8_1"
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 213
+        width: 89
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d588ae2ceb2c1eb0800000000000000
+      internalID: -4747871613760272935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA E DERROTA-8_2"
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 214
+        width: 87
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c8604e10e7a0240800000000000000
+      internalID: 4758754502856051815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA E DERROTA-8_3"
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 213
+        width: 85
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ef561d7b3b7ddd0800000000000000
+      internalID: -2461301069261177223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA E DERROTA-8_4"
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 214
+        width: 84
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b93af26acf961d0800000000000000
+      internalID: -3356874256533972196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA E DERROTA-8_5"
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 214
+        width: 101
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6f6cd82c67e1410800000000000000
+      internalID: 1449726708034238120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA E DERROTA-8_6"
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 214
+        width: 85
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe28dbeb307486fa0800000000000000
+      internalID: -5807313638083689745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA E DERROTA-8_7"
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 213
+        width: 85
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670451d9dfb4d4630800000000000000
+      internalID: 3912867203889053814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA E DERROTA-8_8"
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 214
+        width: 71
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20dd20e16b13dfe70800000000000000
+      internalID: 9150524676144028930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA E DERROTA-8_9"
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 214
+        width: 101
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236dc3a9c435533c0800000000000000
+      internalID: -4380503474077641166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA E DERROTA-8_10"
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 214
+        width: 85
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2075ca4462eb9c0800000000000000
+      internalID: -3909645350119996691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA E DERROTA-8_11"
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 214
+        width: 31
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a10eb1ae47556d0800000000000000
+      internalID: -3002365027733726603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA E DERROTA-8_12"
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 213
+        width: 89
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73753a4d803c8ff0800000000000000
+      internalID: -32597713904897158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA E DERROTA-8_13"
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 214
+        width: 87
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f520af81e8446630800000000000000
+      internalID: 3919337709333652977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA E DERROTA-8_14"
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 213
+        width: 86
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68be8df1f58322d20800000000000000
+      internalID: 3252223862122277766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA E DERROTA-8_15"
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 44
+        width: 85
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5a24bc4f34d16c0800000000000000
+      internalID: -4171102961213987389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA E DERROTA-8_16"
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 45
+        width: 101
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e819434caf4747010800000000000000
+      internalID: 1185701222287708558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA E DERROTA-8_17"
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 45
+        width: 110
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bc71bfe29d7e410800000000000000
+      internalID: 1506411396183083791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA E DERROTA-8_18"
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 45
+        width: 74
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de829f596b6f45310800000000000000
+      internalID: 1393009448824940781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA E DERROTA-8_19"
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 44
+        width: 89
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce437373f9c924240800000000000000
+      internalID: 4774550762606245100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA E DERROTA-8_20"
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 45
+        width: 101
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42573a0fd064784f0800000000000000
+      internalID: -826614980913433308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA E DERROTA-8_21"
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 45
+        width: 74
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcaff55110c758e70800000000000000
+      internalID: 9116829364776860367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA E DERROTA-8_22"
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 45
+        width: 84
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11afec2c99a8cdd10800000000000000
+      internalID: 2151747114979228177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

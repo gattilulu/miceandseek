@@ -1,16 +1,19 @@
 fileFormatVersion: 2
-guid: cdd6ff96e3b534b42b6d6a5e95412521
+guid: 46c61c6d5edf93f41a30688f3aeb1bbe
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7529978197163807675
-    second: BrilhoQueijo02_0
+      213: 7069783525710514717
+    second: Teclas-8_0
   - first:
-      213: 7867738644887546723
-    second: BrilhoQueijo02_1
+      213: 2065421124249285816
+    second: Teclas-8_1
   - first:
-      213: -2752896553652267850
-    second: BrilhoQueijo02_2
+      213: 6781163753700366223
+    second: Teclas-8_2
+  - first:
+      213: 4895338999139899183
+    second: Teclas-8_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -52,7 +55,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -119,13 +122,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BrilhoQueijo02_0
+      name: Teclas-8_0
       rect:
         serializedVersion: 2
-        x: 82
-        y: 98
-        width: 73
-        height: 73
+        x: 181
+        y: 1716
+        width: 474
+        height: 473
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -134,20 +137,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 54c6d97a9b4208790800000000000000
-      internalID: -7529978197163807675
+      spriteID: d1a42e8c8aaec1260800000000000000
+      internalID: 7069783525710514717
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BrilhoQueijo02_1
+      name: Teclas-8_1
       rect:
         serializedVersion: 2
-        x: 158
-        y: 116
-        width: 52
-        height: 72
+        x: 181
+        y: 1174
+        width: 474
+        height: 473
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -156,20 +159,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 36ba22acc92df2d60800000000000000
-      internalID: 7867738644887546723
+      spriteID: 8b47776c199d9ac10800000000000000
+      internalID: 2065421124249285816
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BrilhoQueijo02_2
+      name: Teclas-8_2
       rect:
         serializedVersion: 2
-        x: 208
-        y: 91
-        width: 64
-        height: 66
+        x: 181
+        y: 649
+        width: 474
+        height: 473
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -178,8 +181,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6b4d8208b2fbbc9d0800000000000000
-      internalID: -2752896553652267850
+      spriteID: f87901f71888b1e50800000000000000
+      internalID: 6781163753700366223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teclas-8_3
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 118
+        width: 474
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2799d212ecbfe340800000000000000
+      internalID: 4895338999139899183
       vertices: []
       indices: 
       edges: []
@@ -188,7 +213,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 

@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: ee05b076a342d93488ae632d0d6bcaa7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8406086009067079257
+    second: DERROTA-8_0
+  - first:
+      213: -879766636058954488
+    second: DERROTA-8_1
+  - first:
+      213: 8021146492549480507
+    second: DERROTA-8_2
+  - first:
+      213: -1570189970487916184
+    second: DERROTA-8_3
+  - first:
+      213: -3641974974712527484
+    second: DERROTA-8_4
+  - first:
+      213: -4428768608189795072
+    second: DERROTA-8_5
+  - first:
+      213: -1331991229726683468
+    second: DERROTA-8_6
+  - first:
+      213: 2915080453539264257
+    second: DERROTA-8_7
+  - first:
+      213: -1630626359426042007
+    second: DERROTA-8_8
+  - first:
+      213: 6159483112906296167
+    second: DERROTA-8_9
+  - first:
+      213: 282275998934646797
+    second: DERROTA-8_10
+  - first:
+      213: -360391211373895985
+    second: DERROTA-8_11
+  - first:
+      213: -5481505986459390748
+    second: DERROTA-8_12
+  - first:
+      213: 6274315581895435667
+    second: DERROTA-8_13
+  - first:
+      213: -8137829753790364308
+    second: DERROTA-8_14
+  - first:
+      213: -5668467095393413907
+    second: DERROTA-8_15
+  - first:
+      213: -2540777880786314570
+    second: DERROTA-8_16
+  - first:
+      213: 3079550412265380668
+    second: DERROTA-8_17
+  - first:
+      213: 4011477668924197140
+    second: DERROTA-8_18
+  - first:
+      213: -7122647335896448841
+    second: DERROTA-8_19
+  - first:
+      213: -800305797727770221
+    second: DERROTA-8_20
+  - first:
+      213: 5258256324707304855
+    second: DERROTA-8_21
+  - first:
+      213: 8386953539558234389
+    second: DERROTA-8_22
+  - first:
+      213: -5233396678976220138
+    second: DERROTA-8_23
+  - first:
+      213: 3115026643479821254
+    second: DERROTA-8_24
+  - first:
+      213: 2283099837180603131
+    second: DERROTA-8_25
+  - first:
+      213: 4110095685120955928
+    second: DERROTA-8_26
+  - first:
+      213: 2220641568554259750
+    second: DERROTA-8_27
+  - first:
+      213: -1487031327183659144
+    second: DERROTA-8_28
+  - first:
+      213: -4431945469651854275
+    second: DERROTA-8_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DERROTA-8_0
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 841
+        width: 91
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9fc26ef45975b80800000000000000
+      internalID: -8406086009067079257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DERROTA-8_1
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 842
+        width: 109
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805377cd7e07ac3f0800000000000000
+      internalID: -879766636058954488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DERROTA-8_2
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 842
+        width: 119
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3048c3bc36d05f60800000000000000
+      internalID: 8021146492549480507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DERROTA-8_3
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 842
+        width: 80
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869cf238a80953ae0800000000000000
+      internalID: -1570189970487916184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DERROTA-8_4
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 841
+        width: 96
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485c5677e0b157dc0800000000000000
+      internalID: -3641974974712527484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DERROTA-8_5
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 842
+        width: 110
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005327c5a6ad982c0800000000000000
+      internalID: -4428768608189795072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DERROTA-8_6
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 842
+        width: 80
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be8434a801d38de0800000000000000
+      internalID: -1331991229726683468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DERROTA-8_7
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 842
+        width: 91
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10774ec4a32747820800000000000000
+      internalID: 2915080453539264257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DERROTA-8_8
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 737
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967b50d27f9de59e0800000000000000
+      internalID: -1630626359426042007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DERROTA-8_9
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 736
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b0cc0c141ea7550800000000000000
+      internalID: 6159483112906296167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DERROTA-8_10
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 736
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d004e158688dae300800000000000000
+      internalID: 282275998934646797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DERROTA-8_11
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 737
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fced2e94a12affaf0800000000000000
+      internalID: -360391211373895985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DERROTA-8_12
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 736
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec29eaf857cde3b0800000000000000
+      internalID: -5481505986459390748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DERROTA-8_13
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 737
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395639b67c8d21750800000000000000
+      internalID: 6274315581895435667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DERROTA-8_14
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 736
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6588ba74fe901f80800000000000000
+      internalID: -8137829753790364308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DERROTA-8_15
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 736
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4d516a53f8551b0800000000000000
+      internalID: -5668467095393413907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DERROTA-8_16
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 736
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6badf82aaf75dbcd0800000000000000
+      internalID: -2540777880786314570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DERROTA-8_17
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 736
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b5cf6a8c2ccba20800000000000000
+      internalID: 3079550412265380668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DERROTA-8_18
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 737
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41983a8afa1aba730800000000000000
+      internalID: 4011477668924197140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DERROTA-8_19
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 736
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b082834cf5472d90800000000000000
+      internalID: -7122647335896448841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DERROTA-8_20
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 736
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39920cefd1eb4e4f0800000000000000
+      internalID: -800305797727770221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DERROTA-8_21
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 722
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7954124944419f840800000000000000
+      internalID: 5258256324707304855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DERROTA-8_22
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 736
+        width: 24
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519d219eec1746470800000000000000
+      internalID: 8386953539558234389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DERROTA-8_23
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 736
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614d9ecb27d3f57b0800000000000000
+      internalID: -5233396678976220138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DERROTA-8_24
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 737
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbfd766a3cca3b20800000000000000
+      internalID: 3115026643479821254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DERROTA-8_25
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 736
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfae6ed94333faf10800000000000000
+      internalID: 2283099837180603131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DERROTA-8_26
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 736
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8161088df3ef90930800000000000000
+      internalID: 4110095685120955928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DERROTA-8_27
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 283
+        width: 347
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625942bbdbd41de10800000000000000
+      internalID: 2220641568554259750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DERROTA-8_28
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 90
+        width: 430
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f1755f2e00d5be0800000000000000
+      internalID: -1487031327183659144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DERROTA-8_29
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 93
+        width: 347
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3cdf79a3119e72c0800000000000000
+      internalID: -4431945469651854275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DERROTA-8_0: -8406086009067079257
+      DERROTA-8_1: -879766636058954488
+      DERROTA-8_10: 282275998934646797
+      DERROTA-8_11: -360391211373895985
+      DERROTA-8_12: -5481505986459390748
+      DERROTA-8_13: 6274315581895435667
+      DERROTA-8_14: -8137829753790364308
+      DERROTA-8_15: -5668467095393413907
+      DERROTA-8_16: -2540777880786314570
+      DERROTA-8_17: 3079550412265380668
+      DERROTA-8_18: 4011477668924197140
+      DERROTA-8_19: -7122647335896448841
+      DERROTA-8_2: 8021146492549480507
+      DERROTA-8_20: -800305797727770221
+      DERROTA-8_21: 5258256324707304855
+      DERROTA-8_22: 8386953539558234389
+      DERROTA-8_23: -5233396678976220138
+      DERROTA-8_24: 3115026643479821254
+      DERROTA-8_25: 2283099837180603131
+      DERROTA-8_26: 4110095685120955928
+      DERROTA-8_27: 2220641568554259750
+      DERROTA-8_28: -1487031327183659144
+      DERROTA-8_29: -4431945469651854275
+      DERROTA-8_3: -1570189970487916184
+      DERROTA-8_4: -3641974974712527484
+      DERROTA-8_5: -4428768608189795072
+      DERROTA-8_6: -1331991229726683468
+      DERROTA-8_7: 2915080453539264257
+      DERROTA-8_8: -1630626359426042007
+      DERROTA-8_9: 6159483112906296167
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
