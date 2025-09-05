@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 303b9ea1ad3e94442ba6fc98850f83b2
+guid: 87055fe5621027242a3f62e5686fdaa2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1887155248225186168
-    second: back_left_0
+      213: 8362868104024547861
+    second: Pode_Racao_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: back_left_0
+      name: Pode_Racao_0
       rect:
         serializedVersion: 2
-        x: 17
-        y: 0
-        width: 147
-        height: 192
+        x: 6
+        y: 47
+        width: 321
+        height: 210
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 871f97e13b5803a10800000000000000
-      internalID: 1887155248225186168
+      spriteID: 512e3d37b30ee0470800000000000000
+      internalID: 8362868104024547861
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      back_left_0: 1887155248225186168
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

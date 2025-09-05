@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: 303b9ea1ad3e94442ba6fc98850f83b2
+guid: cdd6ff96e3b534b42b6d6a5e95412521
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1887155248225186168
-    second: back_left_0
+      213: -7529978197163807675
+    second: BrilhoQueijo02_0
+  - first:
+      213: 7867738644887546723
+    second: BrilhoQueijo02_1
+  - first:
+      213: -2752896553652267850
+    second: BrilhoQueijo02_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +119,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: back_left_0
+      name: BrilhoQueijo02_0
       rect:
         serializedVersion: 2
-        x: 17
-        y: 0
-        width: 147
-        height: 192
+        x: 82
+        y: 98
+        width: 73
+        height: 73
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +134,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 871f97e13b5803a10800000000000000
-      internalID: 1887155248225186168
+      spriteID: 54c6d97a9b4208790800000000000000
+      internalID: -7529978197163807675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrilhoQueijo02_1
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 116
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ba22acc92df2d60800000000000000
+      internalID: 7867738644887546723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrilhoQueijo02_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 91
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4d8208b2fbbc9d0800000000000000
+      internalID: -2752896553652267850
       vertices: []
       indices: 
       edges: []
@@ -147,8 +197,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      back_left_0: 1887155248225186168
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
