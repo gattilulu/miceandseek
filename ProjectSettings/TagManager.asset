@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - New tag
+  - HidingSpot
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Ref
+    uniqueID: 13563387
+    locked: 0
+  - name: Ground
+    uniqueID: 1922007129
+    locked: 0
+  - name: WallsMiddle
+    uniqueID: 1863243963
+    locked: 0
+  - name: Enemy
+    uniqueID: 1356612403
+    locked: 0
+  - name: Player
+    uniqueID: 1375749701
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: World
+    uniqueID: 978756307
+    locked: 0
+  - name: FOV
+    uniqueID: 3729600225
+    locked: 0
+  - name: TroncosMeio
+    uniqueID: 665934313
+    locked: 0
+  - name: WallsFront
+    uniqueID: 4190028885
+    locked: 0
+  - name: vfx
+    uniqueID: 3013357491
+    locked: 0
+  m_RenderingLayers:
+  - Default
