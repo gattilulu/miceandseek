@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Queijo_0: -4704087586273795114
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: 0d9905a2674c2be4285fab84400b103e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5786352712028218877
+    second: "VIT\xD3RIA-8_0"
+  - first:
+      213: -277983847774417794
+    second: "VIT\xD3RIA-8_1"
+  - first:
+      213: 5712804719567263602
+    second: "VIT\xD3RIA-8_2"
+  - first:
+      213: -5236799088639068883
+    second: "VIT\xD3RIA-8_3"
+  - first:
+      213: 2616865729701834883
+    second: "VIT\xD3RIA-8_4"
+  - first:
+      213: -3881588836083461147
+    second: "VIT\xD3RIA-8_5"
+  - first:
+      213: -1524539939423694055
+    second: "VIT\xD3RIA-8_6"
+  - first:
+      213: -8396722571283628659
+    second: "VIT\xD3RIA-8_7"
+  - first:
+      213: -631240696281820468
+    second: "VIT\xD3RIA-8_8"
+  - first:
+      213: -8657217804314729344
+    second: "VIT\xD3RIA-8_9"
+  - first:
+      213: -9213650671992089261
+    second: "VIT\xD3RIA-8_10"
+  - first:
+      213: -5351045367244887220
+    second: "VIT\xD3RIA-8_11"
+  - first:
+      213: -4981144242738876345
+    second: "VIT\xD3RIA-8_12"
+  - first:
+      213: -2494307317203052038
+    second: "VIT\xD3RIA-8_13"
+  - first:
+      213: 5224431302901365670
+    second: "VIT\xD3RIA-8_14"
+  - first:
+      213: -7592311387734783657
+    second: "VIT\xD3RIA-8_15"
+  - first:
+      213: -161065935568394954
+    second: "VIT\xD3RIA-8_16"
+  - first:
+      213: -8685250602461329236
+    second: "VIT\xD3RIA-8_17"
+  - first:
+      213: 3219840037089811745
+    second: "VIT\xD3RIA-8_18"
+  - first:
+      213: 5175354485085582265
+    second: "VIT\xD3RIA-8_19"
+  - first:
+      213: -2717863053697150132
+    second: "VIT\xD3RIA-8_20"
+  - first:
+      213: 89603201468726386
+    second: "VIT\xD3RIA-8_21"
+  - first:
+      213: 5991952441706376951
+    second: "VIT\xD3RIA-8_22"
+  - first:
+      213: -7464947830546125248
+    second: "VIT\xD3RIA-8_23"
+  - first:
+      213: 6014979822273687864
+    second: "VIT\xD3RIA-8_24"
+  - first:
+      213: 2159536096978977901
+    second: "VIT\xD3RIA-8_25"
+  - first:
+      213: 2705641142887757669
+    second: "VIT\xD3RIA-8_26"
+  - first:
+      213: -7857727826024715179
+    second: "VIT\xD3RIA-8_27"
+  - first:
+      213: 8022615762980961148
+    second: "VIT\xD3RIA-8_28"
+  - first:
+      213: 5236643428285441226
+    second: "VIT\xD3RIA-8_29"
+  - first:
+      213: -9029518283379389355
+    second: "VIT\xD3RIA-8_30"
+  - first:
+      213: 1302451886640590220
+    second: "VIT\xD3RIA-8_31"
+  - first:
+      213: -8437524105619441159
+    second: "VIT\xD3RIA-8_32"
+  - first:
+      213: 5803413322545041274
+    second: "VIT\xD3RIA-8_33"
+  - first:
+      213: 3500697956495230464
+    second: "VIT\xD3RIA-8_34"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "VIT\xD3RIA-8_0"
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 851
+        width: 88
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df56f8952214d4050800000000000000
+      internalID: 5786352712028218877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA-8_1"
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 851
+        width: 97
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c0c1cc927642cf0800000000000000
+      internalID: -277983847774417794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA-8_2"
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 852
+        width: 95
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2775bfcef95f74f40800000000000000
+      internalID: 5712804719567263602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA-8_3"
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 851
+        width: 92
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25349189f62357b0800000000000000
+      internalID: -5236799088639068883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA-8_4"
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 852
+        width: 92
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38075c33489f05420800000000000000
+      internalID: 2616865729701834883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA-8_5"
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 852
+        width: 111
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e39f15e483d12ac0800000000000000
+      internalID: -3881588836083461147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA-8_6"
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 852
+        width: 93
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91351c0a00fb7dae0800000000000000
+      internalID: -1524539939423694055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA-8_7"
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 851
+        width: 93
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d72252f49d87b80800000000000000
+      internalID: -8396722571283628659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA-8_8"
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 852
+        width: 77
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc21a526ee16d37f0800000000000000
+      internalID: -631240696281820468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA-8_9"
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 852
+        width: 111
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08422ae56426bd780800000000000000
+      internalID: -8657217804314729344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA-8_10"
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 852
+        width: 93
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3555f53a789822080800000000000000
+      internalID: -9213650671992089261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA-8_11"
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 852
+        width: 34
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b6e5ce6944db5b0800000000000000
+      internalID: -5351045367244887220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA-8_12"
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 851
+        width: 97
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7403194d3bb6fdab0800000000000000
+      internalID: -4981144242738876345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA-8_13"
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 852
+        width: 95
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9547dd5b0726dd0800000000000000
+      internalID: -2494307317203052038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA-8_14"
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 851
+        width: 94
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abfddaf698e08840800000000000000
+      internalID: 5224431302901365670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA-8_15"
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 732
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7594ae5c401b2a690800000000000000
+      internalID: -7592311387734783657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA-8_16"
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 731
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635a70d8267c3cdf0800000000000000
+      internalID: -161065935568394954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA-8_17"
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 731
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca88b0fe79ac77780800000000000000
+      internalID: -8685250602461329236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA-8_18"
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 732
+        width: 70
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d915c447b2fac20800000000000000
+      internalID: 3219840037089811745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA-8_19"
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 731
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b33046eb7d82d740800000000000000
+      internalID: 5175354485085582265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA-8_20"
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 732
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c431938d3f5384ad0800000000000000
+      internalID: -2717863053697150132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA-8_21"
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 731
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cf74213a55e3100800000000000000
+      internalID: 89603201468726386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA-8_22"
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 713
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe61febff0b72350800000000000000
+      internalID: 5991952441706376951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA-8_23"
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 731
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ea975cf7d276890800000000000000
+      internalID: -7464947830546125248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA-8_24"
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 731
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831f3c59740897350800000000000000
+      internalID: 6014979822273687864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA-8_25"
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 731
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64c01473a638fd10800000000000000
+      internalID: 2159536096978977901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA-8_26"
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 731
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567b18bc84e5c8520800000000000000
+      internalID: 2705641142887757669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA-8_27"
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 731
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c281c9c2eb3f290800000000000000
+      internalID: -7857727826024715179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA-8_28"
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 731
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bfde1e78e065f60800000000000000
+      internalID: 8022615762980961148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA-8_29"
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 731
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4665ef37b4ca840800000000000000
+      internalID: 5236643428285441226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA-8_30"
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 731
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cc64236f4b0b280800000000000000
+      internalID: -9029518283379389355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA-8_31"
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 714
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8def38171d331210800000000000000
+      internalID: 1302451886640590220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA-8_32"
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 731
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9f1c4a784e7ea80800000000000000
+      internalID: -8437524105619441159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA-8_33"
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 284
+        width: 347
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f01174badd98050800000000000000
+      internalID: 5803413322545041274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "VIT\xD3RIA-8_34"
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 92
+        width: 418
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00685d27e3af49030800000000000000
+      internalID: 3500697956495230464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "VIT\xD3RIA-8_0": 5786352712028218877
+      "VIT\xD3RIA-8_1": -277983847774417794
+      "VIT\xD3RIA-8_10": -9213650671992089261
+      "VIT\xD3RIA-8_11": -5351045367244887220
+      "VIT\xD3RIA-8_12": -4981144242738876345
+      "VIT\xD3RIA-8_13": -2494307317203052038
+      "VIT\xD3RIA-8_14": 5224431302901365670
+      "VIT\xD3RIA-8_15": -7592311387734783657
+      "VIT\xD3RIA-8_16": -161065935568394954
+      "VIT\xD3RIA-8_17": -8685250602461329236
+      "VIT\xD3RIA-8_18": 3219840037089811745
+      "VIT\xD3RIA-8_19": 5175354485085582265
+      "VIT\xD3RIA-8_2": 5712804719567263602
+      "VIT\xD3RIA-8_20": -2717863053697150132
+      "VIT\xD3RIA-8_21": 89603201468726386
+      "VIT\xD3RIA-8_22": 5991952441706376951
+      "VIT\xD3RIA-8_23": -7464947830546125248
+      "VIT\xD3RIA-8_24": 6014979822273687864
+      "VIT\xD3RIA-8_25": 2159536096978977901
+      "VIT\xD3RIA-8_26": 2705641142887757669
+      "VIT\xD3RIA-8_27": -7857727826024715179
+      "VIT\xD3RIA-8_28": 8022615762980961148
+      "VIT\xD3RIA-8_29": 5236643428285441226
+      "VIT\xD3RIA-8_3": -5236799088639068883
+      "VIT\xD3RIA-8_30": -9029518283379389355
+      "VIT\xD3RIA-8_31": 1302451886640590220
+      "VIT\xD3RIA-8_32": -8437524105619441159
+      "VIT\xD3RIA-8_33": 5803413322545041274
+      "VIT\xD3RIA-8_34": 3500697956495230464
+      "VIT\xD3RIA-8_4": 2616865729701834883
+      "VIT\xD3RIA-8_5": -3881588836083461147
+      "VIT\xD3RIA-8_6": -1524539939423694055
+      "VIT\xD3RIA-8_7": -8396722571283628659
+      "VIT\xD3RIA-8_8": -631240696281820468
+      "VIT\xD3RIA-8_9": -8657217804314729344
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
