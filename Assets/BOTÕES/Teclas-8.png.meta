@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Teclas-8_0: 7069783525710514717
+      Teclas-8_1: 2065421124249285816
+      Teclas-8_2: 6781163753700366223
+      Teclas-8_3: 4895338999139899183
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

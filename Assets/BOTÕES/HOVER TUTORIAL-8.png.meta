@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      HOVER TUTORIAL-8_0: 6270769175346831684
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

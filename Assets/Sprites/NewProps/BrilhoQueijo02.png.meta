@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BrilhoQueijo02_0: -7529978197163807675
+      BrilhoQueijo02_1: 7867738644887546723
+      BrilhoQueijo02_2: -2752896553652267850
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
