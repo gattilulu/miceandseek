@@ -1,0 +1,2182 @@
+fileFormatVersion: 2
+guid: 30133d414a00cfd428ae344c01bca971
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1482148536619275657
+    second: patrol_right_0
+  - first:
+      213: -8439055634835205012
+    second: patrol_right_1
+  - first:
+      213: 5592011846369143731
+    second: patrol_right_2
+  - first:
+      213: -4742596290936613184
+    second: patrol_right_3
+  - first:
+      213: -1110556086492495871
+    second: patrol_right_4
+  - first:
+      213: -7744378208825672422
+    second: patrol_right_5
+  - first:
+      213: 8594139573616732750
+    second: patrol_right_6
+  - first:
+      213: 6399893096891405511
+    second: patrol_right_7
+  - first:
+      213: 6215345531181052061
+    second: patrol_right_8
+  - first:
+      213: -5668747604591952872
+    second: patrol_right_9
+  - first:
+      213: 3622143226962444063
+    second: patrol_right_10
+  - first:
+      213: 5688504884008332607
+    second: patrol_right_11
+  - first:
+      213: -5273162787121109084
+    second: patrol_right_12
+  - first:
+      213: -2809622475738057884
+    second: patrol_right_13
+  - first:
+      213: -8832844229025095396
+    second: patrol_right_14
+  - first:
+      213: -8646018659671260023
+    second: patrol_right_15
+  - first:
+      213: -4219458643326163132
+    second: patrol_right_16
+  - first:
+      213: -8380055694077539272
+    second: patrol_right_17
+  - first:
+      213: -6974437681686458271
+    second: patrol_right_18
+  - first:
+      213: 8973753723988423788
+    second: patrol_right_19
+  - first:
+      213: -3597624066399892316
+    second: patrol_right_20
+  - first:
+      213: 9172332331758103884
+    second: patrol_right_21
+  - first:
+      213: 5155613449110296374
+    second: patrol_right_22
+  - first:
+      213: 1791558866486699234
+    second: patrol_right_23
+  - first:
+      213: -1731037297112080586
+    second: patrol_right_24
+  - first:
+      213: -1194772981782983938
+    second: patrol_right_25
+  - first:
+      213: 9151607618884769563
+    second: patrol_right_26
+  - first:
+      213: -1030238142367387783
+    second: patrol_right_27
+  - first:
+      213: -4927022834244526132
+    second: patrol_right_28
+  - first:
+      213: -7944842835700890856
+    second: patrol_right_29
+  - first:
+      213: -6389217554531568659
+    second: patrol_right_30
+  - first:
+      213: 5371064846086121254
+    second: patrol_right_31
+  - first:
+      213: 196151623064959423
+    second: patrol_right_32
+  - first:
+      213: -11698504437974106
+    second: patrol_right_33
+  - first:
+      213: 6192236922145841794
+    second: patrol_right_34
+  - first:
+      213: 4670623558221947627
+    second: patrol_right_35
+  - first:
+      213: 174896811451473571
+    second: patrol_right_36
+  - first:
+      213: 6871534913832678499
+    second: patrol_right_37
+  - first:
+      213: -1057607423851850451
+    second: patrol_right_38
+  - first:
+      213: 7166052426787278641
+    second: patrol_right_39
+  - first:
+      213: 9082836060354724492
+    second: patrol_right_40
+  - first:
+      213: 8829752369057866619
+    second: patrol_right_41
+  - first:
+      213: 2933541622186734904
+    second: patrol_right_42
+  - first:
+      213: -6874777220326089683
+    second: patrol_right_43
+  - first:
+      213: 5653648531165867360
+    second: patrol_right_44
+  - first:
+      213: 1949526191513252718
+    second: patrol_right_45
+  - first:
+      213: 451716388700489278
+    second: patrol_right_46
+  - first:
+      213: 502105282636994313
+    second: patrol_right_47
+  - first:
+      213: -4527884412610780806
+    second: patrol_right_48
+  - first:
+      213: 1134796544538212865
+    second: patrol_right_49
+  - first:
+      213: 3250077162084371294
+    second: patrol_right_50
+  - first:
+      213: -9177085654719915191
+    second: patrol_right_51
+  - first:
+      213: 1873741895319544478
+    second: patrol_right_52
+  - first:
+      213: 6960705469206775179
+    second: patrol_right_53
+  - first:
+      213: -2444181062146420726
+    second: patrol_right_54
+  - first:
+      213: -9194728259222351832
+    second: patrol_right_55
+  - first:
+      213: 3008305624259422509
+    second: patrol_right_56
+  - first:
+      213: 79441913257447443
+    second: patrol_right_57
+  - first:
+      213: -1940303926735852203
+    second: patrol_right_58
+  - first:
+      213: 3064315394685617700
+    second: patrol_right_59
+  - first:
+      213: 7584832012563755505
+    second: patrol_right_60
+  - first:
+      213: -9135470805604753636
+    second: patrol_right_61
+  - first:
+      213: -5834037004724694110
+    second: patrol_right_62
+  - first:
+      213: 6924116678500168749
+    second: patrol_right_63
+  - first:
+      213: -8461497045220447706
+    second: patrol_right_64
+  - first:
+      213: -339526668176383124
+    second: patrol_right_65
+  - first:
+      213: 8583335654402926011
+    second: patrol_right_66
+  - first:
+      213: 5009055866450170650
+    second: patrol_right_67
+  - first:
+      213: 4315511943824447375
+    second: patrol_right_68
+  - first:
+      213: -428726484902851376
+    second: patrol_right_69
+  - first:
+      213: -2347059351023777377
+    second: patrol_right_70
+  - first:
+      213: -2677386166163980431
+    second: patrol_right_71
+  - first:
+      213: 8100288635576963905
+    second: patrol_right_72
+  - first:
+      213: -2482447325260649050
+    second: patrol_right_73
+  - first:
+      213: -2769647030948816589
+    second: patrol_right_74
+  - first:
+      213: -5902334931607636584
+    second: patrol_right_75
+  - first:
+      213: -8686103652927518245
+    second: patrol_right_76
+  - first:
+      213: 5575698884071971722
+    second: patrol_right_77
+  - first:
+      213: -8059283316635927751
+    second: patrol_right_78
+  - first:
+      213: -5418308903476464280
+    second: patrol_right_79
+  - first:
+      213: 4962107799813387059
+    second: patrol_right_80
+  - first:
+      213: 786228583922238942
+    second: patrol_right_81
+  - first:
+      213: 4254118701932485470
+    second: patrol_right_82
+  - first:
+      213: 6056962740022072346
+    second: patrol_right_83
+  - first:
+      213: -6981713736919179061
+    second: patrol_right_84
+  - first:
+      213: 1668206065836327097
+    second: patrol_right_85
+  - first:
+      213: -3034647569131613087
+    second: patrol_right_86
+  - first:
+      213: -4838203833454858278
+    second: patrol_right_87
+  - first:
+      213: -6669308768747077077
+    second: patrol_right_88
+  - first:
+      213: -6798640102910921979
+    second: patrol_right_89
+  - first:
+      213: -9003824514226577819
+    second: patrol_right_90
+  - first:
+      213: 477521580921096474
+    second: patrol_right_91
+  - first:
+      213: 1784453578234527919
+    second: patrol_right_92
+  - first:
+      213: -8766759671063460173
+    second: patrol_right_93
+  - first:
+      213: -6680973185754962703
+    second: patrol_right_94
+  - first:
+      213: -3076085247248584212
+    second: patrol_right_95
+  - first:
+      213: 6443813003479882376
+    second: patrol_right_96
+  - first:
+      213: -6239770459319670811
+    second: patrol_right_97
+  - first:
+      213: -898660687584043628
+    second: patrol_right_98
+  - first:
+      213: 6464599045884713316
+    second: patrol_right_99
+  - first:
+      213: -7788397998429095750
+    second: patrol_right_100
+  - first:
+      213: -3315710652954871353
+    second: patrol_right_101
+  - first:
+      213: -2526494117606817997
+    second: patrol_right_102
+  - first:
+      213: -3957360138276904021
+    second: patrol_right_103
+  - first:
+      213: 6968993627839837412
+    second: patrol_right_104
+  - first:
+      213: 5594370953935657522
+    second: patrol_right_105
+  - first:
+      213: 8893529954828235268
+    second: patrol_right_106
+  - first:
+      213: 8665921615942813250
+    second: patrol_right_107
+  - first:
+      213: -1908324739149508873
+    second: patrol_right_108
+  - first:
+      213: -8271745684713897585
+    second: patrol_right_109
+  - first:
+      213: 3365880166768691978
+    second: patrol_right_110
+  - first:
+      213: 6769103087920012950
+    second: patrol_right_111
+  - first:
+      213: 5833884572981237472
+    second: patrol_right_112
+  - first:
+      213: 3850086871782427099
+    second: patrol_right_113
+  - first:
+      213: -4851613685770418064
+    second: patrol_right_114
+  - first:
+      213: -2546619670074128998
+    second: patrol_right_115
+  - first:
+      213: -1241427987346275249
+    second: patrol_right_116
+  - first:
+      213: -3580936915464890894
+    second: patrol_right_117
+  - first:
+      213: -5345278931575579869
+    second: patrol_right_118
+  - first:
+      213: -3993097165031868693
+    second: patrol_right_119
+  - first:
+      213: 5664836286812600250
+    second: patrol_right_120
+  - first:
+      213: -5646955208479694930
+    second: patrol_right_121
+  - first:
+      213: 8397523191234429232
+    second: patrol_right_122
+  - first:
+      213: 4255699594483706293
+    second: patrol_right_123
+  - first:
+      213: -7398660247623876970
+    second: patrol_right_124
+  - first:
+      213: 950192454768992482
+    second: patrol_right_125
+  - first:
+      213: 8149153977224703852
+    second: patrol_right_126
+  - first:
+      213: -2178538641134207006
+    second: patrol_right_127
+  - first:
+      213: 7827198167281018425
+    second: patrol_right_128
+  - first:
+      213: 2240845592854757857
+    second: patrol_right_129
+  - first:
+      213: 6885819101635392533
+    second: patrol_right_130
+  - first:
+      213: 8341334900421589573
+    second: patrol_right_131
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: patrol_right_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2163
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9859e85cd36a19410800000000000000
+      internalID: 1482148536619275657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2163
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6493e5bc9372ea80800000000000000
+      internalID: -8439055634835205012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2163
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbeb928521da9d40800000000000000
+      internalID: 5592011846369143731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2163
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c653adfcc9ee2eb0800000000000000
+      internalID: -4742596290936613184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2163
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10087719f138690f0800000000000000
+      internalID: -1110556086492495871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2163
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d7ba0fc01768490800000000000000
+      internalID: -7744378208825672422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_6
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2163
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a6d839864844770800000000000000
+      internalID: 8594139573616732750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_7
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2163
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4dfa01ddcf0d850800000000000000
+      internalID: 6399893096891405511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_8
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2163
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90bb5e84d7514650800000000000000
+      internalID: 6215345531181052061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1854
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c33f286109451b0800000000000000
+      internalID: -5668747604591952872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1854
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ffea0f210744230800000000000000
+      internalID: 3622143226962444063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_11
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1854
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d24629d01a1fe40800000000000000
+      internalID: 5688504884008332607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_12
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1854
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a766de2266f1d6b0800000000000000
+      internalID: -5273162787121109084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_13
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1854
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463fdac8e373209d0800000000000000
+      internalID: -2809622475738057884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_14
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1854
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11a99cd8fe6b6580800000000000000
+      internalID: -8832844229025095396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_15
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1854
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98445ec66db230880800000000000000
+      internalID: -8646018659671260023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_16
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1854
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447a71438b87175c0800000000000000
+      internalID: -4219458643326163132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_17
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1854
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83cc484eebf04bb80800000000000000
+      internalID: -8380055694077539272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1545
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160daf271e1d53f90800000000000000
+      internalID: -6974437681686458271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1545
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c643b2c877d298c70800000000000000
+      internalID: 8973753723988423788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1545
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac86def8fba21ec0800000000000000
+      internalID: -3597624066399892316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_21
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1545
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4da54c98abaa4f70800000000000000
+      internalID: 9172332331758103884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_22
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1545
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6371279cd1b6c8740800000000000000
+      internalID: 5155613449110296374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_23
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1545
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e424270c45ecd810800000000000000
+      internalID: 1791558866486699234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_24
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1545
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f9eacefbe1af7e0800000000000000
+      internalID: -1731037297112080586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_25
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1545
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa4791ad405b6fe0800000000000000
+      internalID: -1194772981782983938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_26
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1545
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17926f54aa010f70800000000000000
+      internalID: 9151607618884769563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1236
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f22223edbd3b1f0800000000000000
+      internalID: -1030238142367387783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_28
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1236
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfdd9436d2bf9bb0800000000000000
+      internalID: -4927022834244526132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_29
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1236
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813cdb5d88f3eb190800000000000000
+      internalID: -7944842835700890856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_30
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1236
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3b4755c70f457a0800000000000000
+      internalID: -6389217554531568659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_31
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1236
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6272d88350bd98a40800000000000000
+      internalID: 5371064846086121254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_32
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1236
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb937e6acded8b200800000000000000
+      internalID: 196151623064959423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_33
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1236
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab329ea54076dff0800000000000000
+      internalID: -11698504437974106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_34
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1236
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282af8d3cae3fe550800000000000000
+      internalID: 6192236922145841794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_35
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1236
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2e363516361d040800000000000000
+      internalID: 4670623558221947627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 927
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aed9ee29bb5d6200800000000000000
+      internalID: 174896811451473571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_37
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 927
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364f0b0e8989c5f50800000000000000
+      internalID: 6871534913832678499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_38
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 927
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d259e75c6af9251f0800000000000000
+      internalID: -1057607423851850451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_39
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 927
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f4b7cf6bee27360800000000000000
+      internalID: 7166052426787278641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_40
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 927
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c824d822647bc0e70800000000000000
+      internalID: 9082836060354724492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_41
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 927
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73ab546ff4998a70800000000000000
+      internalID: 8829752369057866619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_42
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 927
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8357344109806b820800000000000000
+      internalID: 2933541622186734904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_43
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 927
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c1480da82e790a0800000000000000
+      internalID: -6874777220326089683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_44
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 927
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06dec01826bc57e40800000000000000
+      internalID: 5653648531165867360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 618
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63b77dfdbb1e0b10800000000000000
+      internalID: 1949526191513252718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_46
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 618
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3607b789a1d44600800000000000000
+      internalID: 451716388700489278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_47
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 618
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907dc632816d7f600800000000000000
+      internalID: 502105282636994313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_48
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 618
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a716e42dd19b921c0800000000000000
+      internalID: -4527884412610780806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_49
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 618
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a7a81e17b9fbf00800000000000000
+      internalID: 1134796544538212865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_50
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 618
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b06a295f79a1d20800000000000000
+      internalID: 3250077162084371294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_51
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 618
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b1615283174a080800000000000000
+      internalID: -9177085654719915191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_52
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 618
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92e947835ed00a10800000000000000
+      internalID: 1873741895319544478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_53
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 618
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85403eaeb4699060800000000000000
+      internalID: 6960705469206775179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 309
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0096081646841ed0800000000000000
+      internalID: -2444181062146420726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_55
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 309
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8205ece2d53c56080800000000000000
+      internalID: -9194728259222351832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_56
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 309
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29eacdc606afb920800000000000000
+      internalID: 3008305624259422509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_57
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 309
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310dcfbcffb3a1100800000000000000
+      internalID: 79441913257447443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_58
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 309
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d2d9adbd7a215e0800000000000000
+      internalID: -1940303926735852203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_59
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 309
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4264ff3bd92a68a20800000000000000
+      internalID: 3064315394685617700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_60
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 309
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1bfdd778cb24960800000000000000
+      internalID: 7584832012563755505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_61
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 309
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f1aff34b9483180800000000000000
+      internalID: -9135470805604753636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_62
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 309
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a396e61146590fa0800000000000000
+      internalID: -5834037004724694110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d243c5dfe67671060800000000000000
+      internalID: 6924116678500168749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_64
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a2e9fa449b29a80800000000000000
+      internalID: -8461497045220447706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63239f4b42c94bf0800000000000000
+      internalID: -339526668176383124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_66
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5a1ac1d422e1770800000000000000
+      internalID: 8583335654402926011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_67
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1359db75cdb38540800000000000000
+      internalID: 5009055866450170650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_68
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f879c939f37c3eb30800000000000000
+      internalID: 4315511943824447375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_69
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc4091988bdc0af0800000000000000
+      internalID: -428726484902851376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_70
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 0
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99087b94f19d6fd0800000000000000
+      internalID: -2347059351023777377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patrol_right_71
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 200
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f304f977308dad0800000000000000
+      internalID: -2677386166163980431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ba8866c40903a40488186117cbbd32b5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      patrol_right_0: 1482148536619275657
+      patrol_right_1: -8439055634835205012
+      patrol_right_10: 3622143226962444063
+      patrol_right_11: 5688504884008332607
+      patrol_right_12: -5273162787121109084
+      patrol_right_13: -2809622475738057884
+      patrol_right_14: -8832844229025095396
+      patrol_right_15: -8646018659671260023
+      patrol_right_16: -4219458643326163132
+      patrol_right_17: -8380055694077539272
+      patrol_right_18: -6974437681686458271
+      patrol_right_19: 8973753723988423788
+      patrol_right_2: 5592011846369143731
+      patrol_right_20: -3597624066399892316
+      patrol_right_21: 9172332331758103884
+      patrol_right_22: 5155613449110296374
+      patrol_right_23: 1791558866486699234
+      patrol_right_24: -1731037297112080586
+      patrol_right_25: -1194772981782983938
+      patrol_right_26: 9151607618884769563
+      patrol_right_27: -1030238142367387783
+      patrol_right_28: -4927022834244526132
+      patrol_right_29: -7944842835700890856
+      patrol_right_3: -4742596290936613184
+      patrol_right_30: -6389217554531568659
+      patrol_right_31: 5371064846086121254
+      patrol_right_32: 196151623064959423
+      patrol_right_33: -11698504437974106
+      patrol_right_34: 6192236922145841794
+      patrol_right_35: 4670623558221947627
+      patrol_right_36: 174896811451473571
+      patrol_right_37: 6871534913832678499
+      patrol_right_38: -1057607423851850451
+      patrol_right_39: 7166052426787278641
+      patrol_right_4: -1110556086492495871
+      patrol_right_40: 9082836060354724492
+      patrol_right_41: 8829752369057866619
+      patrol_right_42: 2933541622186734904
+      patrol_right_43: -6874777220326089683
+      patrol_right_44: 5653648531165867360
+      patrol_right_45: 1949526191513252718
+      patrol_right_46: 451716388700489278
+      patrol_right_47: 502105282636994313
+      patrol_right_48: -4527884412610780806
+      patrol_right_49: 1134796544538212865
+      patrol_right_5: -7744378208825672422
+      patrol_right_50: 3250077162084371294
+      patrol_right_51: -9177085654719915191
+      patrol_right_52: 1873741895319544478
+      patrol_right_53: 6960705469206775179
+      patrol_right_54: -2444181062146420726
+      patrol_right_55: -9194728259222351832
+      patrol_right_56: 3008305624259422509
+      patrol_right_57: 79441913257447443
+      patrol_right_58: -1940303926735852203
+      patrol_right_59: 3064315394685617700
+      patrol_right_6: 8594139573616732750
+      patrol_right_60: 7584832012563755505
+      patrol_right_61: -9135470805604753636
+      patrol_right_62: -5834037004724694110
+      patrol_right_63: 6924116678500168749
+      patrol_right_64: -8461497045220447706
+      patrol_right_65: -339526668176383124
+      patrol_right_66: 8583335654402926011
+      patrol_right_67: 5009055866450170650
+      patrol_right_68: 4315511943824447375
+      patrol_right_69: -428726484902851376
+      patrol_right_7: 6399893096891405511
+      patrol_right_70: -2347059351023777377
+      patrol_right_71: -2677386166163980431
+      patrol_right_8: 6215345531181052061
+      patrol_right_9: -5668747604591952872
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

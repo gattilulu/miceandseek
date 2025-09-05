@@ -1,0 +1,868 @@
+fileFormatVersion: 2
+guid: de5d4aef62d2c244f93087f4fe88b443
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7188611713037376495
+    second: running_cycle_left_0
+  - first:
+      213: -6906334848759239605
+    second: running_cycle_left_1
+  - first:
+      213: -7926874327790384857
+    second: running_cycle_left_2
+  - first:
+      213: -307890940128983148
+    second: running_cycle_left_3
+  - first:
+      213: -881077468366295738
+    second: running_cycle_left_4
+  - first:
+      213: 3744240006782552304
+    second: running_cycle_left_5
+  - first:
+      213: 1180873821704087960
+    second: running_cycle_left_6
+  - first:
+      213: -2874796714205258895
+    second: running_cycle_left_7
+  - first:
+      213: 530474849010525037
+    second: running_cycle_left_8
+  - first:
+      213: -3980023646174558315
+    second: running_cycle_left_9
+  - first:
+      213: -8881812229029697539
+    second: running_cycle_left_10
+  - first:
+      213: -8499062478419403888
+    second: running_cycle_left_11
+  - first:
+      213: -4231229869306010660
+    second: running_cycle_left_12
+  - first:
+      213: -3874717404005525315
+    second: running_cycle_left_13
+  - first:
+      213: 3808731194475865152
+    second: running_cycle_left_14
+  - first:
+      213: 3660848293319085065
+    second: running_cycle_left_15
+  - first:
+      213: 2049600377542401183
+    second: running_cycle_left_16
+  - first:
+      213: 3127027351624488133
+    second: running_cycle_left_17
+  - first:
+      213: 4356098572727384004
+    second: running_cycle_left_18
+  - first:
+      213: -2657497388113572729
+    second: running_cycle_left_19
+  - first:
+      213: -5031304579064992658
+    second: running_cycle_left_20
+  - first:
+      213: 8653471057584046664
+    second: running_cycle_left_21
+  - first:
+      213: 2700858699254336783
+    second: running_cycle_left_22
+  - first:
+      213: -930706628330883564
+    second: running_cycle_left_23
+  - first:
+      213: 3711503887412040421
+    second: running_cycle_left_24
+  - first:
+      213: 1323709411315836628
+    second: running_cycle_left_25
+  - first:
+      213: 3927189777882681848
+    second: running_cycle_left_26
+  - first:
+      213: -4231307603022702590
+    second: running_cycle_left_27
+  - first:
+      213: -8130400367091098778
+    second: running_cycle_left_28
+  - first:
+      213: 1264363001070172308
+    second: running_cycle_left_29
+  - first:
+      213: 4495697605671504896
+    second: running_cycle_left_30
+  - first:
+      213: 2335645362166458849
+    second: running_cycle_left_31
+  - first:
+      213: -6609597521788544973
+    second: running_cycle_left_32
+  - first:
+      213: 842254353119687771
+    second: running_cycle_left_33
+  - first:
+      213: 4217381860086123327
+    second: running_cycle_left_34
+  - first:
+      213: -6804035396822006628
+    second: running_cycle_left_35
+  - first:
+      213: -2464877591854711710
+    second: running_cycle_left_36
+  - first:
+      213: -6980389639101205826
+    second: running_cycle_left_37
+  - first:
+      213: 8533105601444314654
+    second: running_cycle_left_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: running_cycle_left_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 596
+        width: 143
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114e130ebbbec3c90800000000000000
+      internalID: -7188611713037376495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_cycle_left_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 596
+        width: 143
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cedcfdb05c720a0800000000000000
+      internalID: -6906334848759239605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_cycle_left_2
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 596
+        width: 143
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72904e81cc51ef190800000000000000
+      internalID: -7926874327790384857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_cycle_left_3
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 596
+        width: 143
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4970d0c32d62abbf0800000000000000
+      internalID: -307890940128983148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_cycle_left_4
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 596
+        width: 143
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d2d6ee5b8c5c3f0800000000000000
+      internalID: -881077468366295738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_cycle_left_5
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 596
+        width: 143
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f88416c27636f330800000000000000
+      internalID: 3744240006782552304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_cycle_left_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 143
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899ea3bfb7e436010800000000000000
+      internalID: 1180873821704087960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_cycle_left_7
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 447
+        width: 143
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bd558ae9baa18d0800000000000000
+      internalID: -2874796714205258895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_cycle_left_8
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 447
+        width: 143
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d632d898010ac5700800000000000000
+      internalID: 530474849010525037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_cycle_left_9
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 447
+        width: 143
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5974c14b49d14c8c0800000000000000
+      internalID: -3980023646174558315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_cycle_left_10
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 447
+        width: 143
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7e6f6e5d67db480800000000000000
+      internalID: -8881812229029697539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_cycle_left_11
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 447
+        width: 143
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bd5f1b4b34d0a80800000000000000
+      internalID: -8499062478419403888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_cycle_left_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 298
+        width: 143
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd32ef41ad6a745c0800000000000000
+      internalID: -4231229869306010660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_cycle_left_13
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 298
+        width: 143
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db81a39dc0d3a3ac0800000000000000
+      internalID: -3874717404005525315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_cycle_left_14
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 298
+        width: 143
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044eea387d45bd430800000000000000
+      internalID: 3808731194475865152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_cycle_left_15
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 298
+        width: 143
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c01e37022fdc230800000000000000
+      internalID: 3660848293319085065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_cycle_left_16
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 298
+        width: 143
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cdbe22fa4a17c10800000000000000
+      internalID: 2049600377542401183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_cycle_left_17
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 298
+        width: 143
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c412800fce656b20800000000000000
+      internalID: 3127027351624488133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_cycle_left_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 149
+        width: 143
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c770028298f37c30800000000000000
+      internalID: 4356098572727384004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_cycle_left_19
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 149
+        width: 143
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c46fd943cae1bd0800000000000000
+      internalID: -2657497388113572729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_cycle_left_20
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 149
+        width: 143
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ce80074273d2ab0800000000000000
+      internalID: -5031304579064992658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_cycle_left_21
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 149
+        width: 143
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842cb6d241e471870800000000000000
+      internalID: 8653471057584046664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_cycle_left_22
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 149
+        width: 143
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d049d5da06b7520800000000000000
+      internalID: 2700858699254336783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_cycle_left_23
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 149
+        width: 143
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4167c3ca0477513f0800000000000000
+      internalID: -930706628330883564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_cycle_left_24
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 0
+        width: 143
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e21da70f19e18330800000000000000
+      internalID: 3711503887412040421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_cycle_left_25
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 0
+        width: 143
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6625f32b2ce5210800000000000000
+      internalID: 1323709411315836628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_cycle_left_26
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 0
+        width: 143
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f11e3cbb4e208630800000000000000
+      internalID: 3927189777882681848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fe363788445587244ae7bd83c9b5ea97
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      running_cycle_left_0: -7188611713037376495
+      running_cycle_left_1: -6906334848759239605
+      running_cycle_left_10: -8881812229029697539
+      running_cycle_left_11: -8499062478419403888
+      running_cycle_left_12: -4231229869306010660
+      running_cycle_left_13: -3874717404005525315
+      running_cycle_left_14: 3808731194475865152
+      running_cycle_left_15: 3660848293319085065
+      running_cycle_left_16: 2049600377542401183
+      running_cycle_left_17: 3127027351624488133
+      running_cycle_left_18: 4356098572727384004
+      running_cycle_left_19: -2657497388113572729
+      running_cycle_left_2: -7926874327790384857
+      running_cycle_left_20: -5031304579064992658
+      running_cycle_left_21: 8653471057584046664
+      running_cycle_left_22: 2700858699254336783
+      running_cycle_left_23: -930706628330883564
+      running_cycle_left_24: 3711503887412040421
+      running_cycle_left_25: 1323709411315836628
+      running_cycle_left_26: 3927189777882681848
+      running_cycle_left_3: -307890940128983148
+      running_cycle_left_4: -881077468366295738
+      running_cycle_left_5: 3744240006782552304
+      running_cycle_left_6: 1180873821704087960
+      running_cycle_left_7: -2874796714205258895
+      running_cycle_left_8: 530474849010525037
+      running_cycle_left_9: -3980023646174558315
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
